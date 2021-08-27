@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Sagnik Chakravarty 
-- 👀 I’m interested in becoming a data scientist/analyst
-- 🌱 I’m currently learning data science through John Hopkins Data science specialization in Coursera 
-- 💞️ I am currently working as an Excel Data reporting analyst or an MIS executive 
+- 👋 Hi, I’m Sagnik 
+
 - 📫 How to reach me ... sagnik1004@gmail.com 
 
 <!---
